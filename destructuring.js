@@ -5,6 +5,13 @@
 
 // Destructuring arrays
 
+let ages = [30, 34, 17];
+let [jones, mary, joe] = ages;
+
+console.log(jones);
+console.log(mary);
+console.log(joe);
+
 // Destructuring objects
 
 // Destructuring subsets
